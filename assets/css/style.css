@@ -1,0 +1,35 @@
+div.clear {
+  min-width: 0;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+div.editors {
+    min-height: 43vh;
+}
+
+iframe.resultFrame {
+    min-height: 40vh;
+    /*position: relative;*/
+    background-color: white;
+    width: 100%;
+    height: 43vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
