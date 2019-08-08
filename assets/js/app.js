@@ -57,7 +57,7 @@ $(document).ready(function() {
 	updateFrame();
 	
 	updateTimer = setInterval(updateFrame, 5000);
-	autosaveTimer = setInterval(autosaveCode, 10000);
+	autosaveTimer = setInterval(autosaveCode, 300000);
 });
 
 function doUpdate() {
